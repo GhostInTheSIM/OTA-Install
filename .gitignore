@@ -1,0 +1,14 @@
+node_modules/
+
+*.cap
+*.json
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.vscode/
+.idea/
+*.swp
+.DS_Store
